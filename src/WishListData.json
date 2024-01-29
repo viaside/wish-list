@@ -1,0 +1,24 @@
+{
+    "data":[
+        {
+            "img": "https://main-cdn.sbermegamarket.ru/big1/hlr-system/152/970/193/172/662/100057833389b0.jpg",
+            "name": "kiko milano",
+            "price": 2400
+        },
+        {
+            "img": "https://cosmetos.shop/upload/iblock/db4/loevj4p80688sxnyj7mqr2qtfoec55i1.jpg",
+            "name": "Dior backstage",
+            "price": 5400
+        },
+        {
+            "img": "https://main-cdn.sbermegamarket.ru/big1/hlr-system/177/421/968/431/171/9/100030097080b0.jpg",
+            "name": "Influence",
+            "price": 4100
+        },
+        {
+            "img": "https://www.aroma-butik.ru/images/product_images/original_images/135589_0.jpg",
+            "name": "Tom Ford Lost Cherry",
+            "price": 12300
+        }
+    ]
+}
