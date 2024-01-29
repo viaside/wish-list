@@ -18,7 +18,7 @@ function App() {
           <h1>Мой "Виш лист" 🛍️</h1>
           <h1>❤️🩷🧡💛💚💙🩵💜🤎🖤🩶🤍</h1>
         </div>
-        <div style={{display: "flex"}}>
+        <div style={{display: "flex", overflowX: "scroll", maxWidth: "80vw"}}>
           {WishListData.data.map((el, key) => {
             return (
               <Item key={key} img={el.img} name={el.name} price={el.price}/>
